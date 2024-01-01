@@ -1,0 +1,2 @@
+ini adalah example txt
+adding new line at example.txt
